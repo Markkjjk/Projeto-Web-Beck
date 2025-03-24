@@ -134,5 +134,3 @@ const renderClients = (clients) => {
     tbody.appendChild(tr);
   });
 };
-
-// ... (Continua com as funções de eventos de forma similar)
